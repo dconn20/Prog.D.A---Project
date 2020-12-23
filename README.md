@@ -1,3 +1,5 @@
+<img src="Images/GMIT-logo.png" width="500" align="center" />
+
 # Programming for Data Analysis
 
 # Project 2020
